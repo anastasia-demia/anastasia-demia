@@ -26,5 +26,5 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastasia-demia&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=anastasia-demia&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <img src="https://media.giphy.com/media/J5SqHZ4CHrkp46rSn0/giphy.gif" width="200"/>
