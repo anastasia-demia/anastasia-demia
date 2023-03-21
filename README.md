@@ -4,10 +4,6 @@
 </div>
 <h2>👋 Yellow! I'm Anastasia :)</h2>
 
-<!--
-**anastasia-demia/anastasia-demia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ---
 
 ### :woman_technologist: About Me :
@@ -28,3 +24,6 @@
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
 
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anastasia-demia&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
