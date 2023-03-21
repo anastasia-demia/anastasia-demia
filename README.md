@@ -2,16 +2,16 @@
   <img src="https://media.giphy.com/media/BmXoVlKSfQjlxEZvtm/giphy.gif" width="350"/>
   <img src="https://media.giphy.com/media/QAmILpbJNO1aF5Ow5P/giphy.gif" width="200"/>
 </div>
-<h2>👋 Yellow! I'm Anastasia :)</h2>
+<h2> ☀️ Hey, howdy, hi! I'm Anastasia :) </h2>
 
----
+--- 
 
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently working on <strong> leveling up my skills. </strong>
 - 🌱 I’m learning <strong> not to be too hard on myself. </strong>
 - 📫 How to reach me: <strong> anastasia.demia0@gmail.com </strong>
-- ⚡ Fun fact: <strong> 0_0 </strong>
+- ⚡ Fun fact: <strong> 0_0 gotta keep thinking </strong>
 
 ---
 
@@ -27,3 +27,4 @@
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=anastasia-demia&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
